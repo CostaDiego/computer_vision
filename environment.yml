@@ -1,0 +1,8 @@
+name: computer_vision
+channels:
+  - defaults
+dependencies:
+  - python=3
+  - ipykernel
+  - opencv
+  - matplotlib
